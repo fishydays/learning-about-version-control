@@ -1,4 +1,4 @@
-# learning-about-version-control
+# Learning about Version Control
 - author: Elaine Chu
 
-Solving merge conflict is soooooo hard!
+Solving merge conflict takes conscious effort, but I can do it!
